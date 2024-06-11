@@ -1,3 +1,3 @@
-const BaseUrl = "http://localhost:4000"//"https://istetrackspace.azurewebsites.net"
+const BaseUrl = "https://iste-trackspace.azurewebsites.net"
 
 export default BaseUrl;
